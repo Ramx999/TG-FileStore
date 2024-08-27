@@ -2,6 +2,7 @@ Pyrogram
 TgCrypto
 motor
 aiofiles
+--upgrade pip setuptools wheel
 dnspython
 psutil
 render
